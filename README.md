@@ -20,8 +20,7 @@ Project has been created using:
 
 ## Usage
 
-To properly use the app you need to store your youtube API keys in client_secret.json file.
-When it's done open YTMv.exe file. I think it's self explanatory what you need to do next.
+Open YTMv.exe file. I think it's self explanatory what you need to do next. If the app doesn't work then we probably exceeded youtube API limit for the day. Sorry for that! I'll try to verify my app so I can make my limits bigger.
 
 ## Future
 
